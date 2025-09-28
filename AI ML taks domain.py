@@ -41,8 +41,6 @@ def calculate_class_average(records):
     average = total_marks / total_students
     return round(average, 2)
 
-
-# Main execution block
 def main():
 
     records = STUDENT_RECORDS
